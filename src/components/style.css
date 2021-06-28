@@ -1,0 +1,29 @@
+.alinhar{
+    text-align: center;
+}
+
+.ml{
+    margin-right: 10px !important;
+    margin-top: 10px !important;
+    float: right !important;
+}
+
+.botaoCadastrar{
+    background-color: #000000 !important;
+    color : rgb(185, 247, 15) !important;
+}
+
+.botaoExcluir{
+    background-color: #f70606 !important;
+    color : rgb(185, 247, 15) !important;
+}
+
+.botaoSair{
+    background-color: #000000 !important;
+    color : rgb(185, 247, 15) !important;
+}
+
+.botaoEditar{
+    background-color: #000000 !important;
+    color : rgb(8, 235, 83) !important;
+}
